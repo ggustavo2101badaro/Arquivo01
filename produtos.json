@@ -1,0 +1,30 @@
+{
+    "2": {
+        "id": "673fbc36a1ecc",
+        "nome": "rede",
+        "descricao": "Projeto: Sistema de Cadastro e Consulta de Produtos (sem banco de dados)\r\nDescri\u00e7\u00e3o do Projeto\r\nDesenvolver um sistema em PHP para gerenciar um cat\u00e1logo de produtos. O sistema permitir\u00e1:\r\n1. Cadastrar produtos: Nome, descri\u00e7\u00e3o, pre\u00e7o e quantidade.\r\n2. Listar produtos cadastrados: Exibir todos os produtos j\u00e1 cadastrados em uma tabela.\r\n3. Pesquisar produtos: Permitir a pesquisa de produtos pelo nome.\r\n4. Excluir produtos: Oferecer a funcionalidade para excluir produtos cadastrados.\r\n5. Editar produtos: Permitir que os produtos cadastrados sejam editados.\r\nO sistema dever\u00e1 ser simples, mas funcional, e utilizar arquivos na pasta do projeto para armazenar \r\nos dados (ex.: arquivos .txt ou .json).\r\nRequisitos Funcionais\r\n1. Interface amig\u00e1vel, com formul\u00e1rios para:\r\n\u2022 Cadastrar produtos.\r\n\u2022 Buscar produtos pelo nome.\r\n\u2022 Editar ou excluir produtos da lista.\r\n2. Salvar os dados de produtos em arquivos no servidor.\r\n3. As altera\u00e7\u00f5es realizadas no sistema devem refletir no arquivo de dados em tempo real.\r\n4. Implementar valida\u00e7\u00f5es b\u00e1sicas:\r\n\u2022 Todos os campos do formul\u00e1rio de cadastro devem ser obrigat\u00f3rios.\r\n\u2022 O pre\u00e7o deve ser num\u00e9rico e positivo.\r\n\u2022 A quantidade deve ser um n\u00famero inteiro positivo.\r\nRequisitos N\u00e3o Funcionais\r\n1. O sistema dever\u00e1 ser desenvolvido sem banco de dados ou cookies.\r\n2. Utilize apenas PHP, HTML e CSS (opcionalmente JavaScript para melhorar a experi\u00eancia do\r\nusu\u00e1rio).\r\n3. Deve ser poss\u00edvel rodar o sistema localmente, utilizando apenas um servidor local como o \r\nXAMPP.\r\nEntreg\u00e1veis\r\n1. C\u00f3digo-fonte completo do sistema.\r\n2. Instru\u00e7\u00f5es para rodar o sistema localmente (README.txt ou README.md).",
+        "preco": 34,
+        "quantidade": 1
+    },
+    "3": {
+        "id": "673fc226c575c",
+        "nome": "copo",
+        "descricao": "jjjjjjjjjjjjjjjjjjjj",
+        "preco": 90,
+        "quantidade": 7
+    },
+    "4": {
+        "id": "673fc25234642",
+        "nome": "copo",
+        "descricao": "jjjjjjjjjjjjjjjjjjjj",
+        "preco": 90,
+        "quantidade": 7
+    },
+    "5": {
+        "id": "673fc264d41c9",
+        "nome": "copo",
+        "descricao": "jjjjjjjjjjjjjjjjjjjj",
+        "preco": 90,
+        "quantidade": 7
+    }
+}
